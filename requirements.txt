@@ -1,5 +1,5 @@
 jupyterlab==3.2.4
-Keras==2.4.3
+Keras>=2.7.0
 matplotlib==3.4.2
 numpy==1.19.5
-tensorflow==2.5.0
+tensorflow>=2.5.2
